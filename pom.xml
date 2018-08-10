@@ -3,4 +3,8 @@
   <groupId>per.yjm</groupId>
   <artifactId>JavaProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>MyHotswap</module>
+  </modules>
 </project>
